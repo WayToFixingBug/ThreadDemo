@@ -4,7 +4,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * @Description 用
+ * @Description 用interrupt方法正确停止
  * @Date 2020/11/10 9:11 下午
  * @Created by chenzhibin
  */
