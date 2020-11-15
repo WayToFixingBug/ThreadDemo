@@ -3,7 +3,7 @@ package threadcoreknowledge.threadobjectclasscomonmethods;
 /**
  * @Description 用两个线程交替打印1～100，一个线程打印偶数，一个线程打印奇数（用Synchronized实现）
  * @Date 2020/11/15 3:05 下午
- * @Created by chenzhibin
+ * @Created by WayToFixingBug
  */
 public class WaitNotifyPrintOddEevnSyn {
 
