@@ -3,7 +3,7 @@ package threadcoreknowledge.sixstates;
 /**
  * @Description 展示线程的NEW、RUNNABLE、TERMINATED状态，即使是正在运行，也是Runnable状态，而不是Running
  * @Date 2020/11/14 4:07 下午
- * @Created by chenzhibin
+ * @Created by WayToFixingBug
  */
 public class NewRunnableterminated implements Runnable {
     public static void main(String[] args) {

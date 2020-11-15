@@ -6,7 +6,7 @@ import java.util.concurrent.BlockingQueue;
 /**
  * @Description 用interrupt方法正确停止
  * @Date 2020/11/10 9:11 下午
- * @Created by chenzhibin
+ * @Created by WayToFixingBug
  */
 public class WrongWayVolatileFixed {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package threadcoreknowledge.sixstates;
 /**
  * @Description 展示Blcoked、Waiting、TimedWaiting
  * @Date 2020/11/14 4:26 下午
- * @Created by chenzhibin
+ * @Created by WayToFixingBug
  */
 public class BlockedWaitingTimedWaiting implements Runnable {
 
